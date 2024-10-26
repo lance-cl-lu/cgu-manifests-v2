@@ -43,7 +43,11 @@ spawnerFormDefaults:
     options:
     - cguaicadmin/remote-desktop-eng:V0.0.1
     - cguaicadmin/remote-desktop-ros-eng:V0.0.1
+<<<<<<< HEAD
     - cguaicadmin/newlab-newpytorch:V1.0.23 
+=======
+    - cguaicadmin/newlab-newpytorch:V1.0.23
+>>>>>>> 873abc33cb7763e65c59a450f922289b73c883d4
     - cguaicadmin/remote-desktop:V1.0
     - cguaicadmin/jupyterlab-tensorflow:V1.0
     - wycca1/jupyterlab-mlnocopy:v1.0.12
